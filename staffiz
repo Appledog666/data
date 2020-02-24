@@ -1,0 +1,7 @@
+Name,Teacher1,Teacher2,Teacher3,Teacher4,state
+Examination,12,6,4,0,-10
+Administration,6,8,4,5,-5
+Övning,5,10,20,10,0
+Lectures,20,15,15,6,0
+Labs,10,0,5,15,0
+Assignments,6,5,0,9,0
