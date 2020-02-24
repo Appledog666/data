@@ -1,5 +1,7 @@
-Name,Examination,Administration,Övning,Lectures,Labs,Assignments
-Teacher1,12,1,5,20,10,10
-Teacher2,6,6,10,15,0,5
-Teacher3,4,8,20,15,5,0
-Teacher4,0,4,6,10,15,9
+Name,Teacher1,Teacher2,Teacher3,Teacher4
+Examination,12,6,4,0
+Administration,6,8,4
+Övning,5,10,20,10
+Lectures,20,15,15,6
+Labs,10,0,5,15
+Assignments,6,5,0,9
